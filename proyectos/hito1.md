@@ -22,7 +22,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | H. C. ERWIN ANDREI | <!--enlace-->                                                           | <!--versión--> |
 | H. HAOWEI | <!--enlace-->                                                           | <!--versión--> |
 | K. IASON | <!--enlace-->                                                           | <!--versión--> |
-| M. MICHAEL | <!--enlace-->                                                           | <!--versión--> |
+| M. MICHAEL | https://github.com/michael1702/proyecto-cc-michael-maurer.git | 0.0 |
 | M. ELHADJ | <!--enlace-->                                                           | <!--versión--> |
 | M. ZAKARIA | <!--enlace-->                                                           | <!--versión--> |
 | M. S. DAVID | <!--enlace-->                                                           | <!--versión--> |
